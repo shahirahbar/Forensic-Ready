@@ -8,7 +8,8 @@ Forensic experts require specific information from the target system to perform 
 - User and file activities  
 
 ## Table of Contents  
-   1.1 Important Log Sources  
+   1.1 [Important Log Sources](/Important%20Log%20Sources.md)
+   
    1.2 Important Event IDs  
       1.2.1 Important Logon Types for Event IDs 4624 and 4625  
       1.2.2 Other Important Event IDs  
