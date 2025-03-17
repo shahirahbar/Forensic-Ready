@@ -8,11 +8,11 @@ Forensic experts require specific information from the target system to perform 
 - User and file activities  
 
 ## Table of Contents  
-   1.1 Important Log Sources
-   1.2 Important Event IDs  
+##### 1.1 Important Log Sources
+##### 1.2 Important Event IDs  
       1.2.1 Important Logon Types for Event IDs 4624 and 4625  
       1.2.2 Other Important Event IDs  
-   1.3 Logging Changes and Backing Up Important Artifacts  
+##### 1.3 Logging Changes and Backing Up Important Artifacts  
       1.3.1 File Records  
       1.3.2 Registry Keys and Paths Related to System and User Information  
       1.3.3 Registry Keys and Paths Related to Application Execution  
@@ -23,4 +23,4 @@ Forensic experts require specific information from the target system to perform 
       1.3.8 USB Activities  
       1.3.9 Antivirus Logs  
       1.3.10 Other Information  
-      1.3.11 Periodic Commands (KAPE)
+##### 1.4 Periodic Commands (KAPE)
